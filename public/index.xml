@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 28 Feb 2024 00:45:03 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>poopity</title>
+      <link>http://localhost:1313/test/poopie/</link>
+      <pubDate>Wed, 28 Feb 2024 00:45:03 -0500</pubDate>
+      <guid>http://localhost:1313/test/poopie/</guid>
+      <description>good morning This is america&#xA;Bippity Boppity This wiki is hottity </description>
+    </item>
+    <item>
       <title>Test</title>
       <link>http://localhost:1313/test/test/</link>
       <pubDate>Wed, 28 Feb 2024 00:45:03 -0500</pubDate>
