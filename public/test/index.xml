@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Start on YCP Hacks Documentation</title>
+    <title>Tests on YCP Hacks Documentation</title>
     <link>http://localhost:1313/test/</link>
-    <description>Recent content in Start on YCP Hacks Documentation</description>
+    <description>Recent content in Tests on YCP Hacks Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:45:03 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/test/test/</link>
+      <pubDate>Wed, 28 Feb 2024 00:45:03 -0500</pubDate>
+      <guid>http://localhost:1313/test/test/</guid>
+      <description>good morning </description>
+    </item>
+    <item>
+      <title>Test 2</title>
+      <link>http://localhost:1313/test/test2/</link>
+      <pubDate>Wed, 28 Feb 2024 00:45:03 -0500</pubDate>
+      <guid>http://localhost:1313/test/test2/</guid>
+      <description>test 2 </description>
+    </item>
   </channel>
 </rss>

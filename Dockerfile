@@ -31,4 +31,4 @@ RUN hugo --config ./hugo.toml
 EXPOSE 1313
 
 # Command to start the Hugo server
-CMD ["hugo", "server", "--bind", "0.0.0.0", "--config", "./hugo.toml"]
+CMD ["hugo", "server", "-D", "--bind", "0.0.0.0", "--config", "./hugo.toml"]
