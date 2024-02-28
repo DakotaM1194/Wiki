@@ -16,7 +16,7 @@ RUN wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${
 WORKDIR /Wiki
 
 # Copy the entire Hugo site into the container
-COPY .. .
+COPY . .
 
 # Set the working directory to the location of the Hugo config file
 WORKDIR /Wiki
