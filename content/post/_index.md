@@ -10,7 +10,7 @@ our website and even the database. Here we will go over the in's and out's of th
 https://www.digitalocean.com/
 
 
-![Digital_ocean_mainpage.png](..%2F..%2Fimages%2FDigital_ocean_mainpage.png)
+{{< figure src="img.png" title="title of image" width="400">}}
 
 After logging into DO, this will be the landing page you will be greeted with. 
 
