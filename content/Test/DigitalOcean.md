@@ -29,5 +29,5 @@ The circled database cluster is the database that website is pulling from. The c
 
 The next three "projects" is the website itself split up into 3 parts.
 
-Each are set up the same way so we will look at the Scheduled Message Manager as an example.
+Each are set up the same way so we will look at the Scheduled Message Manager as an example. daKOTA POOP
 
