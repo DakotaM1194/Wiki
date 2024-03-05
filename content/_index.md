@@ -7,7 +7,6 @@ PAGES
 
 [Digital Ocean](/post)
 
-THIS IS A TEST
-WTF
+I love rob wood UwU
 
 
