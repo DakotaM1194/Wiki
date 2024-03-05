@@ -26,7 +26,6 @@ COPY hugo.toml .
 
 # Build the Hugo app
 RUN hugo --config ./hugo.toml
-RUN hugo
 
 # Expose the default Hugo server port
 EXPOSE 1313
