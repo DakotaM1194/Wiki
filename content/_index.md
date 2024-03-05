@@ -10,5 +10,4 @@ PAGES
 THIS IS A TEST
 WTF
 
-[Wiki](/wiki)
 

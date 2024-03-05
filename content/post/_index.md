@@ -3,7 +3,7 @@ title = 'Digital Ocean'
 date = 2024-02-28T00:45:03-05:00
 disableToc=true
 +++
-# Digital Ocean
+# Digital Ocean AHHHHHH
 Digital Ocean is a cloud hosting service provider that we use to host all of the endpoints of 
 our website and even the database. Here we will go over the in's and out's of the website.
 
