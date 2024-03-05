@@ -48,7 +48,7 @@ Now we can finally install hugo with:
 # Hacker Time
 You should be ready to open up webstorm now
 
-![img.png](img.png)
+![img.png](test.png)
 
 We will be cloning the repo from this Github
 
