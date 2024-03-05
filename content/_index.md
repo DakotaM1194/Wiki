@@ -6,3 +6,6 @@ disableToc=true
 PAGES 
 
 [Digital Ocean](/post)
+
+[Wiki](/wiki)
+
