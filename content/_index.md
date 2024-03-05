@@ -5,9 +5,9 @@ disableToc=true
 +++
 PAGES 
 
+[Wiki](/wiki)
+
 [Digital Ocean](/post)
 
-I love rob wood UwU
 
-cum
 
