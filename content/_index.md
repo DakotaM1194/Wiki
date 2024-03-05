@@ -7,5 +7,8 @@ PAGES
 
 [Digital Ocean](/post)
 
+THIS IS A TEST
+WTF
+
 [Wiki](/wiki)
 
