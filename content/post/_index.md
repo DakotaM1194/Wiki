@@ -33,3 +33,4 @@ Each are set up the same way so we will look at the Scheduled Message Manager as
 
 This is a test
 
+binki
